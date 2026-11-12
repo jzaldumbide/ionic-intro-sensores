@@ -13,7 +13,7 @@ Proyecto de clase para explorar el acelerómetro (X, Y, Z), calcular la magnitud
 
 ```bash
 npm install
-npm run start
+ionic serve
 ```
 
 La interfaz se abre en el navegador, pero **la lectura del sensor requiere un entorno compatible**. En un ordenador puede no haber datos de movimiento.
