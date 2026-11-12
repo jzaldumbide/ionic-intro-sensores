@@ -13,6 +13,7 @@ Proyecto de clase para explorar el acelerómetro (X, Y, Z), calcular la magnitud
 
 ```bash
 npm install
+npm install @capacitor/motion
 ionic serve
 ```
 
