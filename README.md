@@ -16,6 +16,11 @@ npm install
 npm install @capacitor/motion
 ionic serve
 ```
+En el caso de utilizar 
+```
+npm i --force
+```
+, utilizarlo con cuidado
 
 La interfaz se abre en el navegador, pero **la lectura del sensor requiere un entorno compatible**. En un ordenador puede no haber datos de movimiento.
 
